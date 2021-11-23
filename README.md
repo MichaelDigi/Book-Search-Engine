@@ -27,17 +27,17 @@
 
   ## Screenshots
   
-  ![Screenshot](imgs/capture.PNG)
+  ![Screenshot](imgs/Capture.PNG)
 
-  ![Screenshot](imgs/capture1.PNG)
+  ![Screenshot](imgs/Capture1.PNG)
 
-  ![Screenshot](imgs/capture2.PNG)
+  ![Screenshot](imgs/Capture2.PNG)
 
-  ![Screenshot](imgs/capture3.PNG)
+  ![Screenshot](imgs/Capture3.PNG)
 
-  ![Screenshot](imgs/capture4.PNG)
+  ![Screenshot](imgs/Capture4.PNG)
 
-  ![Screenshot](imgs/capture5.PNG)
+  ![Screenshot](imgs/Capture5.PNG)
   
 
   ## Deployed Application
