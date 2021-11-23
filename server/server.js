@@ -8,16 +8,16 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 
-// Apollo and GraphQL schema
+// require Apollo and GraphQL schema
 const { ApolloServer } = require('apollo-server-express');
 const { typeDefs, resolvers } = require('./schemas');
-// Set up Apollo
+// Setup for apollo
 const server = new ApolloServer({
   typeDefs,
   resolvers,
   context: authMiddleware
 });
-// Set middleware for Apollo
+// Setting up middleware for Apollo Server
 server.applyMiddleware({ app });
 
 app.use(express.urlencoded({ extended: true }));
